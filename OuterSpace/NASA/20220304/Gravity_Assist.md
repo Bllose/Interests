@@ -10,4 +10,4 @@ At left, an Ultra-Deep Field image from the Hubble Space Telescope; middle, a si
 > > He spent a year in the jungle, **observing** how deforestation is affecting local tribe.  
 > > **tribe** noun (B2) a group of people, often of related families, who live together, sharing the same language, culture, and history, especially
 > > those who do not live in towns or cities.  
-> > con_trib_ute
+> > con\_trib_ute
