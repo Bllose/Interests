@@ -1,5 +1,7 @@
 # Gravity Assist: Using Webb to Trace Galactic Histories, with Aaron Yung  
-> **gravity** noun FORCE the force that attracts objects towards one another, especially the force that makes things fall to the ground.  
+> **gravity** noun FORCE the force that attracts objects towards one another, especially the force that makes things fall to the ground.    
+
+[Dr. L. Y. Aaron Yung](https://lyaaronyung.github.io/)
 
 ![yung et al hubble webb sim](https://www.nasa.gov/sites/default/files/thumbnails/image/yung-et-al-hubble-webb-sim.png)
 To help scientists predict what the James Webb Space Telescope will see, 
@@ -10,5 +12,5 @@ At left, an Ultra-Deep Field image from the Hubble Space Telescope; middle, a si
 > > He spent a year in the jungle, **observing** how deforestation is affecting local tribe.  
 > > **tribe** noun (B2) a group of people, often of related families, who live together, sharing the same language, culture, and history, especially
 > > those who do not live in towns or cities.  
-> > contribute
+> > contribute  
 > > tri-
